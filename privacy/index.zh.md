@@ -1,0 +1,32 @@
+---
+title: 隱私權政策
+description: "Tegaki Tuesday隱私權政策。"
+updated: 2026-06-16
+---
+
+除了投稿以外，本站儲存微量的個人資料。儲存的資料永不會分享給第三方。以下描述本站的個人資料用途。
+
+## 個人資料儲存與蒐集
+
+Discord ID，帳號名稱，頭像，橫幅與背景顏色會在登入時儲存到本站私人伺服器。保留的資料會定時刷新。以加密Cookie保護私人資料以便使用者保持登入狀態。
+
+投稿通過管理員Elnu所開發的Discord機器人「字ちゃん」上傳。上傳的作品會先經過Discord伺服器後才會在本站顯示出來。儲存的帳號名稱等資料使用在此處。作品的表情符號反應以匿名方式顯示在貼文。
+（[若想了解更多請參考Discord的隱私權政策](https://discord.com/privacy)）
+
+## 分析工具
+
+本站使用[Matomo](https://matomo.org/)分析動態。 此工具託管於私人伺服器。 本站絕對不會分享私人資料給第三方。用戶的ＩＰ位址已隱藏。
+
+## 自訂挑戰上傳精靈
+
+自訂挑戰上傳精靈使用[Anthropic](https://www.anthropic.com/legal/privacy)的API做文字處理。精靈自動文字處理功能並非強制功能。使用者可以以自己的方式做文字處理。
+
+## 其他服務
+
+用戶頭像與橫幅來自Discord的CDN。字體有些來自Google Fonts平台[Google Fonts](https://policies.google.com/privacy).
+
+## 聯絡方式
+
+如果您對本隱私權政策有任何問題或疑慮，請以Discord聯繫網站管理員**\@elnudev**。
+
+**無添加訊息的好友邀請一律無視**
