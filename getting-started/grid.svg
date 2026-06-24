@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128">
+  <g fill="none" stroke="#eadab1" stroke-width="2" stroke-linecap="square">
+    <!-- Outer square. -->
+    <rect x="1" y="1" width="126" height="126"/>
+    <!-- Center cross, dotted. -->
+    <path d="M64 1V127M1 64H127" stroke-dasharray="2 6"/>
+  </g>
+</svg>
