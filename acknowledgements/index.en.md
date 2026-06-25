@@ -10,7 +10,7 @@ updated: 2026-06-09
 - [@220010820308959233 <!-- bellumela -->](https://twitter.com/bellumela), for drawing the 字ちゃん (Ji-chan) mascot art
 - @247905883193868289 <!-- drago33 -->, I miss you. Thank you for encouraging me over the years and being an awesome friend.
 - @101938458200641536 <!-- mochamoko -->, for the many challenge suggestions over the years
-- @741715365477744650 <!-- steamedbread -->, for help managing the challenge in the early days
+- @741715365477744650 <!-- steamedbread -->, for help managing the challenge in the early days and for translating the site to Mandarin
 - ...and everyone else who has submitted and contributed over the years!
 
 ---
