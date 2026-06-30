@@ -22,7 +22,7 @@ The optional Challenge Wizard sends the Japanese text you type to [Anthropic](ht
 
 ## Other services
 
-Avatars and banners load from Discord's CDN, and some fonts from [Google Fonts](https://policies.google.com/privacy).
+Avatars and banners load from Discord's CDN.
 
 ## Contact
 
