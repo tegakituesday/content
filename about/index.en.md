@@ -25,8 +25,6 @@ Submissions are currently only accepted through [Discord](https://discord.com/) 
 
 In the **#handwriting** channel of a participating server, use the `/submit` slash command with an image attachment to submit. [字]{じ}ちゃん (Ji-chan) will automatically upload your submission to the website for you! You can submit as many times as you want.
 
-For more information on 字ちゃん commands, see the [command list](#command-list).
-
 ## 字ちゃん
 
 Want to use 字ちゃん's utility commands on your own server? [Add 字ちゃん to your own server!](https://discord.com/oauth2/authorize?client_id=819008332609880076) Keep in mind that challenge interaction is limited to officially partnered servers.
