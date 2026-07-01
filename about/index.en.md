@@ -49,6 +49,6 @@ Most commands have both prefix (e.g. `-h submit`) and slash command (e.g. `/subm
 
 ## Contact
 
-This site is operated by me, Elnu. you can message me **\@elnudev** on Discord. If you would like to contribute to the website or have the challenge on your server, please feel free to send me a message!
+This site is operated by me, Elnu. you can message me **\@elnudev** on Discord, or at {{< contact >}}. If you would like to contribute to the website or have the challenge on your server, please feel free to send me a message!
 
 **If you send me a friend request with no message, you may be ignored.**

@@ -26,6 +26,6 @@ Avatars and banners load from Discord's CDN.
 
 ## Contact
 
-Questions, or want your data removed? Message **\@elnudev** on Discord.
+Questions, or want your data removed? Message **\@elnudev** on Discord, or at {{< contact >}}.
 
 **If you send me a friend request with no message, you may be ignored.**
