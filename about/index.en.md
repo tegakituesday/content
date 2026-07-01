@@ -27,7 +27,9 @@ In the **#handwriting** channel of a participating server, use the `/submit` sla
 
 For more information on 字ちゃん commands, see the [command list](#command-list).
 
-## Command list
+## 字ちゃん
+
+Want to use 字ちゃん's utility commands on your own server? [Add 字ちゃん to your own server!](https://discord.com/oauth2/authorize?client_id=819008332609880076) Keep in mind that challenge interaction is limited to officially partnered servers.
 
 Most commands have both prefix (e.g. `-h submit`) and slash command (e.g. `/submit`) variants.
 
