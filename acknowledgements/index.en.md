@@ -2,6 +2,8 @@
 title: Acknowledgements
 description: "Tegaki Tuesday is made in thanks to our submitters and contributors, and in memory of drago33."
 updated: 2026-06-09
+legalSort: 10
+footerSort: 20
 ---
 
 ## Special thanks

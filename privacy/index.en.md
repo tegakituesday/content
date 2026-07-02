@@ -2,6 +2,8 @@
 title: Privacy Policy
 description: "The Tegaki Tuesday privacy policy."
 updated: 2026-06-16
+legalSort: 20
+footerSort: 10
 ---
 
 Tegaki Tuesday stores very little data outside of submissions, and I never share your data with anyone outside of the public functions of the website, which are described here.

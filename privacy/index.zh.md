@@ -2,6 +2,8 @@
 title: 隱私權政策
 description: "Tegaki Tuesday隱私權政策。"
 updated: 2026-06-16
+legalSort: 20
+footerSort: 10
 ---
 
 除了投稿以外，本站儲存微量的個人資料。儲存的資料永不會分享給第三方。以下描述本站的個人資料用途。
