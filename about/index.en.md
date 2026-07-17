@@ -29,12 +29,9 @@ In the **#handwriting** channel of a participating server, use the `/submit` sla
 
 Want to use 字ちゃん's utility commands on your own server? [Add 字ちゃん to your own server!](https://discord.com/oauth2/authorize?client_id=819008332609880076) Keep in mind that challenge interaction is limited to officially partnered servers.
 
-Most commands have both prefix (e.g. `-h submit`) and slash command (e.g. `/submit`) variants.
+Most commands have both mention prefix (e.g. `@字ちゃん submit`) and slash command (e.g. `/submit`) variants.
 
-- `submit <image> [challenge]` \
-  Submit to the latest handwriting challenge, or a specific one by number, kanji, or slug.
-
-  Using the prefix version, `-h submit [challenge]`, you can also reply to a submission embed (to re-tag it), or to a message with an image (to add it), in addition to normal usage. This applies to `-h submitkotd` as well.
+- `submit <image> [challenge]` Submit to the latest handwriting challenge, or a specific one by number, kanji, or slug.
 - `submitkotd <image>` Submit to today's Kanji of the Day.
 - `challenge` View the latest handwriting challenge info.
 - `suggest` Suggest a song or poem for a future challenge. Opens a form, so it's available as a slash command only.
