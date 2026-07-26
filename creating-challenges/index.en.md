@@ -82,7 +82,7 @@ japanese:
 - - - # …the words of "君を想いながら　「花」を探す旅路" go here…
 ```
 
-Most lines have just one subline, so the triple dash is almost always what is written at the beginning of a challenge line.[^layers] For a blank line between verses, use a line that reads ```yaml - - - dictionary: ~``` (or ```yaml - - - dictionary: null```). Occasionally you'll want to split one line in the original lyrics into several visual rows, that's what *sublines* are for; see [Sublines](#sublines) below.
+Most lines have just one subline, so the triple dash is almost always what is written at the beginning of a challenge line.[^layers] For a blank line between verses, use a line that reads ```yaml - - - {}```. Occasionally you'll want to split one line in the original lyrics into several visual rows, that's what *sublines* are for; see [Sublines](#sublines) below.
 
 ### Words
 
