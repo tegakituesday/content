@@ -4,7 +4,7 @@ description: "About Tegaki Tuesday, the weekly Japanese handwriting challenge on
 nav: true
 sort: 10
 author: 441283734214279178 # elnudev
-updated: 2026-06-16
+updated: 2026-07-17
 ---
 
 <img src="/about/mascot-tiny.png" alt="字ちゃん tiny" class="float-right" style="width: 300px">
