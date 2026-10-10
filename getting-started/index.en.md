@@ -96,7 +96,7 @@ In short: learn them, because of you don't, you're essentially situationally ill
 
 {{< youtube wD3FJgij79c >}}
 
-When you are done writing out the full hiragana chart, submit to the [hiragana challenge](/challenges/hiragana) (send `-h submit hiragana` along with a picture of your work to a participating handwriting channel) to get feedback.
+When you are done writing out the full hiragana chart, submit to the [hiragana challenge](/challenges/hiragana) (use the slash command `/submit hiragana`, or send `@字ちゃん submit hiragana` (simply "@jichan" should autocomplete the ping) along with a picture of your work to a participating handwriting channel) to get feedback.
 
 
 {{< submission 1Ny5KYD height=360px float=right >}}
@@ -105,7 +105,7 @@ When you are done writing out the full hiragana chart, submit to the [hiragana c
 
 If you're feeling bored just writing out hiragana in order, try writing out the [*Iroha*](https://en.wikipedia.org/wiki/Iroha) いろは! It's a classical Japanese poem that's a pangram (contains every letter once, well, except *n* ん, which didn't really exist when it was written) — essentially the Japanese equivalent of ["The quick brown fox jumps over the lazy dog."](https://en.wikipedia.org/wiki/The_quick_brown_fox_jumps_over_the_lazy_dog) Of course, since it's classical Japanese it includes *wi* ゐ and *we* ゑ too.
 
-Once you have written it, you can submit to [Tegaki Tuesday #178 — いろは](/178) (send `-h submit 178` along with a picture of your work to a participating handwriting channel) to get feedback. The first portion of the challenge is just the *Iroha* with kanji, if you want to only practice hiragana, feel free to skip it.
+Once you have written it, you can submit to [Tegaki Tuesday #178 — いろは](/178) (use the slash command `/submit 178`, or send `@字ちゃん submit 178` (simply "@jichan" should autocomplete the ping) along with a picture of your work to a participating handwriting channel) to get feedback. The first portion of the challenge is just the *Iroha* with kanji, if you want to only practice hiragana, feel free to skip it.
 
 ---
 
@@ -113,4 +113,4 @@ Once you have written it, you can submit to [Tegaki Tuesday #178 — いろは](
 
 {{< youtube rf-n_qI2occ >}}
 
-When you are done writing out the full hiragana chart, submit to the [katakana challenge](/challenge/katakana) (send `-h submit katakana` along with a picture of your work to a participating handwriting channel) to get feedback.
+When you are done writing out the full katakana chart, submit to the [katakana challenge](/challenge/katakana) (use the slash command `/submit katakana`, or send `@字ちゃん submit katakana` (simply "@jichan" should autocomplete the ping) along with a picture of your work to a participating handwriting channel) to get feedback.
