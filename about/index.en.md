@@ -15,7 +15,11 @@ Tegaki Tuesday is a weekly Japanese/English handwriting challenge that happens e
 
 Done with this week's challenge? You don't have to wait a whole week! Feel free to browse through our backlog [hundreds of past challenges](/challenges) to write and submit if you want to get extra practice. Nothing interests you? Add it to the site yourself! [Create a community challenge.](/new)
 
-Looking for something quick while waiting for the next Tegaki Tuesday? We have a [Kanji of the Day](/kotd/today) (KOTD) challenge! A random [Jōyō](https://en.wikipedia.org/wiki/Jōyō_kanji) kanji is picked every 24 hours at **12:00 AM PST.** When you're done, feel free to go back and submit previous days. (Or even kanji that haven't been KOTD yet!)
+## Kanji of the Day
+
+Looking for something quick while waiting for the next Tegaki Tuesday? We have a [Kanji of the Day](/kotd/today) (KOTD) challenge! A random kanji is picked every 24 hours at **12:00 AM PST.** When you're done, feel free to go back and submit previous days. (Or even kanji that haven't been KOTD yet!)
+
+The Kanji of the Day will have more ore less increasing difficulty throughout the week, starting with the easiest kanji on Wednesday, and culminating with the hardest on Tuesday. The harder days' kanji are typically not in common use. To see how daily kanji are chosen, see the [scheduler demo](/kotd/schedule). Generally, kanji are picked automatically picked by the scheduler, but sometimes there will be special hand-picked ones for holidays and events.
 
 ## How do I submit?
 
