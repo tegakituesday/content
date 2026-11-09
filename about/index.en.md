@@ -4,14 +4,14 @@ description: "About Tegaki Tuesday, the weekly Japanese handwriting challenge on
 nav: true
 sort: 10
 author: 441283734214279178 # elnudev
-updated: 2026-07-17
+updated: 2026-11-09
 ---
 
 <img src="/about/mascot-tiny.png" alt="字ちゃん tiny" class="float-right" style="width: 300px">
 
 **Welcome to the Tegaki Tuesday ([手]{て}[書]{が}きの[火]{か}[曜]{よう}[日]{び}) website!**
 
-Tegaki Tuesday is a weekly Japanese/English handwriting challenge that happens every, you guessed it, Tuesday. For each challenge, a short passage is selected, usually from the lyrics of a song. Then, it's your job to handwrite (either physically or on a graphics tablet) the challenge and submit it! New challenges are posted weekly on Tuesday at **11:59 PM PST.**
+Tegaki Tuesday is a weekly Japanese/English handwriting challenge that happens every, you guessed it, Tuesday. For each challenge, a short passage is selected, usually from the lyrics of a song. Then, it's your job to handwrite (either physically or on a graphics tablet) the challenge and submit it! New challenges are posted weekly on Tuesday at **noon PST.**
 
 Done with this week's challenge? You don't have to wait a whole week! Feel free to browse through our backlog [hundreds of past challenges](/challenges) to write and submit if you want to get extra practice. Nothing interests you? Add it to the site yourself! [Create a community challenge.](/new)
 
