@@ -23,7 +23,7 @@ The Kanji of the Day will have more ore less increasing difficulty throughout th
 
 ## How do I submit?
 
-Submissions are currently only accepted through [Discord](https://discord.com/) on the **#handwriting** channels of the following participating servers:
+Submissions are currently only accepted through [Discord](https://discord.com/) on the following participating servers:
 
 {{< community >}}
 
